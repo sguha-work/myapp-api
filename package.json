@@ -1,0 +1,24 @@
+{
+  "name": "myapp-api",
+  "version": "0.0.1",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "init.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-couchdb": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguha-work/myapp-api.git"
+  },
+  "author": "Angshu Guha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sguha-work/myapp-api/issues"
+  },
+  "homepage": "https://github.com/sguha-work/myapp-api#readme"
+}
